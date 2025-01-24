@@ -9,3 +9,5 @@ _
 /src/main/java/org/example/prototype/Circle.java,3\5\35ec9ea0dae7764618865d4fa8ac948841699e3a
 d
 4src/main/java/org/example/prototype/ContextMenu.java,f\6\f6598676356fab0ba50ba3a8d5cab1fb115aa395
+f
+6src/main/java/org/example/singleton/ConfigManager.java,0\c\0c1eb9babaa7c9163a8fdd8e910fa5391c72d96d
