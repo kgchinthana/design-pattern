@@ -11,3 +11,17 @@ d
 4src/main/java/org/example/prototype/ContextMenu.java,f\6\f6598676356fab0ba50ba3a8d5cab1fb115aa395
 f
 6src/main/java/org/example/singleton/ConfigManager.java,0\c\0c1eb9babaa7c9163a8fdd8e910fa5391c72d96d
+j
+:src/main/java/org/example/builder/PresentationBuilder.java,b\e\be2f6112245778a08cbae586b78cdcf28af8447d
+\
+,src/main/java/org/example/builder/Slide.java,1\d\1df961cd9c5a4b9bcda519fe3b17d5e58bd691d2
+i
+9src/main/java/org/example/builder/PdfDocumentBuilder.java,3\d\3d254530e8e5144c578f3652f7e5fac616b174ab
+b
+2src/main/java/org/example/builder/PdfDocument.java,2\9\295ae71d3dfc4ff8bb846e291ed7239b5f1fb2b2
+c
+3src/main/java/org/example/builder/Presentation.java,4\2\426e96a02410fb9f08dff03387593fecc9bd11ae
+\
+,src/main/java/org/example/builder/Movie.java,4\7\47802330964e49b0ec7cf920a559867a5bfdbf41
+c
+3src/main/java/org/example/builder/MovieBuilder.java,4\a\4a700e13b8f3340548c21a6dc4a61dc3b864b7d2
